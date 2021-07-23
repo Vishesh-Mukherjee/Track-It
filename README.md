@@ -11,4 +11,4 @@ Dependencies: </br>
 Images: </br>
 1. ![Track It](https://user-images.githubusercontent.com/78814608/126817172-ce8e8e8d-cccc-472c-9369-dfe7696ce3fa.png) </br>
 2. ![Track It Action](https://user-images.githubusercontent.com/78814608/126817266-1b14ed2f-1fda-4923-8d8d-62869ad2a48e.png) </br>
-3. ![Summary](https://user-images.githubusercontent.com/78814608/126817278-994af657-0e87-4156-a7bc-b71b4df53605.png) </br>
+3. ![Summary](https://user-images.githubusercontent.com/78814608/126817746-05a678d6-91d8-4326-8904-db8f53843cd4.png) </br>
