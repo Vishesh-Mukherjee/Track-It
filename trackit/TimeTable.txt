@@ -1,0 +1,49 @@
+Monday
+Break
+Break
+Break
+Bio
+Break
+Software
+Break
+Automata
+
+Tuesday
+Bio
+NoSQL
+NoSQL Lab
+NoSQL Lab
+Break
+R Programming Lab
+R Programming Lab
+IDP
+
+Wednesday
+Automata
+R Programming
+Break
+Break
+Break
+NoSQL
+Bio Lab
+Bio Lab
+
+Thusday
+R Programming Lab
+R Programming Lab
+Software
+Break
+Break
+R Programming
+Management
+IDP
+
+Friday
+R Programming
+Automata
+Software
+Break
+NoSQL
+Software Lab
+Software Lab
+Management
